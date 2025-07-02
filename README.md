@@ -28,8 +28,6 @@ Road_Lane_Detection/
 - Line detection using Hough Transform
 - Works with both images and video files
 
-## 🧪 Example Results
-
 | Input Frame | Output with Detected Lanes |
 |-------------|-----------------------------|
 | ![](test_images/image1.jpg) | ![](output_images/image1_output.jpg) |
