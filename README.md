@@ -52,8 +52,6 @@ Road_Lane_Detection/
    pip install numpy matplotlib opencv-python moviepy
    ```
 
-## ▶️ Usage
-
 ### 🖼️ For images:
 Just run the script. All `.jpg` files from the `test_images/` folder will be processed and displayed.
 
